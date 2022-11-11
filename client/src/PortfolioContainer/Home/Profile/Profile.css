@@ -29,7 +29,8 @@
   color: (--white);
 }
 .highlighted-text {
-  color: rgb(223, 15, 15);
+  color: rgb(154, 240, 172);
+  font-size: 30px;
 }
 
 .profile-role-tagline {
