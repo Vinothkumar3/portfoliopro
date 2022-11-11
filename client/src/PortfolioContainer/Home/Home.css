@@ -1,0 +1,74 @@
+/* home  navbar and responsive toggle styles */
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 670px;
+  width: 100%;
+  background-image: url("../../assets/Home/homebg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.navbar-toggler-icon {
+  background-color: aliceblue;
+}
+
+.navbar-toggler {
+  background-color: aliceblue;
+}
+
+.nav-link {
+  color: aliceblue;
+  font-size: 20px;
+  margin-left: 18px;
+  margin-top: 30px;
+}
+
+/* .nav-item a:hover {
+  color: orangered;
+}
+.nav-item a:focus {
+  color: #0bf163;
+  text-decoration: underline;
+  text-decoration-color: aliceblue;
+} */
+i {
+  padding-right: 3px;
+}
+
+.nav-link {
+  display: inline-block;
+  position: relative;
+  color:
+    aliceblue;
+  scroll-behavior: smooth;
+}
+
+.nav-link:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color:
+    aliceblue;
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+.nav-link:hover {
+  color: orangered;
+  background-color: rgb(62, 3, 102);
+}
+
+.nav-link:focus {
+  color: aliceblue;
+}
+
+.nav-link:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}

@@ -1,0 +1,297 @@
+/* col-3 icon list item styles col-9 description style scrolls style progress bar styles */
+.resume-container {
+  background-image: url("../../assets/Home/whit.png");
+  background-size: cover;
+  height: auto;
+  margin-bottom: 0px;
+}
+
+.resume-header {
+  font-size: 32px;
+  font-family: "Poppins Bold";
+  text-align: center;
+  overflow-y: overlay;
+  -webkit-font-smoothing: antialiased;
+  margin-top: 0px;
+}
+
+.bio-det {
+  font-size: 14px;
+  text-align: center;
+  font-family: "poppins light";
+  -webkit-font-smoothing: antialiased;
+  text-decoration: underline 1px;
+  text-underline-position: under;
+  text-decoration-color: rgb(53, 245, 53);
+}
+
+.resume-underline {
+  width: 90%;
+  /*  border: 1px solid; */
+  /*   background-color: rgb(248, 247, 247); */
+  align-content: center;
+  margin: 20px 100px 0px 100px;
+  padding: 15px;
+}
+
+/* col-3 style */
+.col-md-3 {
+  background-color: white;
+  box-sizing: border-box;
+  background-color: white;
+  width: 250px;
+  border-right: 2px solid rgb(239, 241, 241);
+}
+
+/* icon span style */
+.span1 {
+  background-color: rgb(53, 49, 63);
+  margin-left: 1px;
+  float: left;
+}
+
+.span1 i {
+  display: block;
+  padding: 5px;
+  margin: 67px 0px 79px 0px;
+  color: aliceblue;
+}
+
+.span1 a {
+  text-decoration: none;
+}
+
+.span1 i:hover {
+  color: orangered;
+}
+
+/* list item style */
+.span2 {
+  width: 150px;
+  margin-right: 5px;
+  border-right-style: 1px solid;
+}
+
+.nuo {
+  font-family: "Poppins medium";
+  font-size: 20px;
+  background-color: white;
+  border: none;
+}
+
+.ni {
+  font-family: "Poppins extrabold";
+  font-size: 20px bold;
+  margin: 55px 0px 5px 0px;
+  list-style: none;
+  border-top-right-radius: 19px;
+  border-bottom-right-radius: 19px;
+  width: auto;
+}
+
+.nl {
+  border: none;
+}
+
+.nl.active {
+  background-color: rgb(53, 49, 63);
+  color: aliceblue;
+  border: none;
+}
+
+.nuo a:hover {
+  color: orangered;
+  background-color: rgb(53, 49, 63);
+}
+
+.nuo a:focus {
+  color: none;
+  text-decoration: none;
+  text-decoration-color: none;
+}
+
+/* col-9 and  sections style  */
+div .col-md-9 {
+  position: relative;
+  background-color: white;
+  height: 490px;
+  margin: 0px 0px 0px 0px;
+  width: auto;
+
+  overflow-y: auto;
+}
+
+div .col-md-9::-webkit-scrollbar {
+  width: 15px;
+}
+
+div .col-md-9::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(241, 240, 237, 0.856);
+  border: 0.5px solid rgb(243, 243, 230);
+  border-radius: 5px;
+}
+
+div .col-md-9::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  -webkit-box-shadow: inset 0 0 6px rgb(177, 103, 34);
+}
+
+#section1 {
+  background-color: white;
+  padding: 60px 5px 20px 55px;
+  height: auto;
+}
+
+#mcaid {
+  color: orangered;
+  font-size: 20px;
+  font-family: "poppins bold";
+  display: list-item;
+  list-style-position: inside;
+  padding-top: 0px;
+}
+
+#bcaid {
+  color: orangered;
+  font-size: 20px;
+  font-family: "poppins bold";
+  display: list-item;
+  list-style-position: inside;
+  padding-top: 30px;
+}
+
+#hscid,
+#hsid {
+  color: orangered;
+  font-size: 20px;
+  font-family: "poppins bold";
+  display: list-item;
+  list-style-position: inside;
+  padding-top: 30px;
+}
+
+#mcaspan,
+#bcaspan {
+  background-color: orangered;
+  display: inline-block;
+  width: auto;
+  border-radius: 30px;
+  color: aliceblue;
+  padding: 4px;
+}
+
+#hsspan,
+#hscspan {
+  background-color: orangered;
+  display: inline-block;
+  width: auto;
+  border-radius: 30px;
+  color: aliceblue;
+  padding: 4px;
+}
+
+#mcap,
+#bcap,
+#hscp,
+#hsp {
+  font-size: 16px;
+  font-family: "poppins bold";
+  margin: 5px 0px 0px 25px;
+}
+
+#section2 {
+  background-color: white;
+  padding: 40px 50px 10px 55px;
+}
+
+#section2 h4 {
+  color: orangered;
+  font-size: 20px;
+  font-family: "poppins bold";
+  display: list-item;
+  list-style-position: inside;
+}
+
+.progress {
+  background-color: orangered;
+  height: 15px;
+  width: 75%;
+  margin-bottom: 38px;
+  margin-left: 30px;
+}
+
+.progress-bar {
+  background-color: rgb(53, 49, 63);
+}
+
+#section3 {
+  background-color: white;
+  padding: 0px 5px 59px 55px;
+}
+
+#projid {
+  color: orangered;
+  font-size: 20px;
+  font-family: "poppins bold";
+  display: list-item;
+  list-style-position: inside;
+  padding-top: 28px;
+}
+
+#projspan,
+#projspan1,
+#projspan2 {
+  background-color: orangered;
+  display: inline-block;
+  width: auto;
+  border-radius: 30px;
+  color: aliceblue;
+  padding: 6px;
+}
+
+#projp1 {
+  font-size: 16px;
+  font-family: "poppins bold";
+  margin: 3px 0px 0px 25px;
+}
+
+#projp2 {
+  font-size: 16px;
+  font-family: "poppins regular";
+  margin: 5px 0px 0px 25px;
+}
+
+#section4 {
+  background-color: white;
+  padding: 0px 5px 5px 55px;
+}
+
+#inter1id {
+  color: orangered;
+  font-size: 20px;
+  font-family: "poppins bold";
+  display: list-item;
+  list-style-position: inside;
+  padding-top: 5px;
+}
+
+#interid {
+  color: orangered;
+  font-size: 20px;
+  font-family: "poppins bold";
+  display: list-item;
+  list-style-position: inside;
+  padding-top: 5px;
+}
+
+#interp {
+  font-size: 16px;
+  font-family: "poppins medium";
+  margin: 5px 0px 30px 28px;
+}
+
+#interpmu {
+  font-size: 16px;
+  font-family: "poppins medium";
+  margin: 5px 0px 80px 28px;
+}

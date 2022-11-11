@@ -1,0 +1,99 @@
+/* blog cards carousel style */
+.blog-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 670px;
+  width: 100%;
+  position: relative;
+  /*  border: 1px solid; */
+  background-image: url("../../assets/Home/wh.png");
+  background-size: cover;
+}
+.blog-header {
+  font-size: 32px;
+  font-family: "Poppins Bold";
+  text-align: center;
+  overflow-y: overlay;
+  -webkit-font-smoothing: antialiased;
+  margin-top: 30px;
+}
+.blog-choose {
+  font-size: 14px;
+  font-family: "poppins light";
+  -webkit-font-smoothing: antialiased;
+  text-decoration: underline 1px;
+  text-underline-position: under;
+  text-decoration-color: aqua;
+}
+
+.blog-underline {
+  /*   border: 1px solid mediumorchid; */
+  /*   background-color: rgb(229, 235, 231); */
+  min-height: 500px;
+  display: block;
+  margin: 20px 0px 5px;
+  padding-left: 75px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+.carouselExampleControls {
+  padding: 5%;
+  align-items: center;
+}
+
+.card {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  width: auto;
+}
+.card-body {
+  background-color: rgb(248, 188, 158);
+  height: 250px;
+  width: auto;
+  padding: 10px;
+} /* card title and text style */
+
+.card-title {
+  font-size: 20px;
+  font-family: "poppins bold";
+}
+.card-text {
+  font-size: 13px;
+  text-align: justify;
+}
+/* ever card image sizes  */
+
+#html-img {
+  content: url("../../assets/Home/html.png");
+  height: 250px;
+  width: auto;
+}
+#css-img {
+  content: url("../../assets/Home/css.png");
+  height: 250px;
+  width: auto;
+}
+#js-img {
+  content: url("../../assets/Home/js.png");
+  height: 250px;
+  width: auto;
+}
+#react-img {
+  content: url("../../assets/Home/react.png");
+  height: 250px;
+  width: auto;
+}
+
+#boot-img {
+  content: url("../../assets/Home/boot.png");
+  height: 250px;
+  width: auto;
+}
+
+#git-img {
+  content: url("../../assets/Home/git.png");
+  height: 250px;
+  width: auto;
+}

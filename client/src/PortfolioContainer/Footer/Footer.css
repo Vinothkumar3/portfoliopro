@@ -1,0 +1,9 @@
+/* footer component bg color and text color */
+.footer-copyright {
+    background-color: rgb(122, 124, 126);
+
+}
+
+#name {
+    color: rgb(206, 241, 252)
+}
