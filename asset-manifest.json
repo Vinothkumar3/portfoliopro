@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portfoliopro/static/css/main.3b0214f8.css",
+    "main.js": "/portfoliopro/static/js/main.09791fb4.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/portfoliopro/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/profilebg.png": "/portfoliopro/static/media/profilebg.b5a293b3c5583829a3f9.png",
+    "static/media/contsend.png": "/portfoliopro/static/media/contsend.b2710c50142c634121db.png",
+    "static/media/Poppins-Thin.ttf": "/portfoliopro/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/portfoliopro/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/portfoliopro/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/portfoliopro/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/portfoliopro/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/portfoliopro/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/portfoliopro/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/cont.png": "/portfoliopro/static/media/cont.c3191d1135a64421cef0.png",
+    "static/media/homebg.png": "/portfoliopro/static/media/homebg.b9ad190473581b6995c8.png",
+    "static/media/html.png": "/portfoliopro/static/media/html.da3b899f1fe784d99c64.png",
+    "static/media/js.png": "/portfoliopro/static/media/js.94db6179796332622e0d.png",
+    "static/media/wh.png": "/portfoliopro/static/media/wh.7c8a677c91885f913c10.png",
+    "static/media/abou.png": "/portfoliopro/static/media/abou.7fa8ec9a4f135ad74c40.png",
+    "static/media/whit.png": "/portfoliopro/static/media/whit.3ff670d2aa00b763cef7.png",
+    "static/media/css.png": "/portfoliopro/static/media/css.01794b481eff9657130d.png",
+    "static/media/react.png": "/portfoliopro/static/media/react.0e41b1e566d99d1abeb6.png",
+    "static/media/git.png": "/portfoliopro/static/media/git.36c06e2892470feb3dfe.png",
+    "index.html": "/portfoliopro/index.html",
+    "main.3b0214f8.css.map": "/portfoliopro/static/css/main.3b0214f8.css.map",
+    "main.09791fb4.js.map": "/portfoliopro/static/js/main.09791fb4.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/portfoliopro/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b0214f8.css",
+    "static/js/main.09791fb4.js"
+  ]
+}
