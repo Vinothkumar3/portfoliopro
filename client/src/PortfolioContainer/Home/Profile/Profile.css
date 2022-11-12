@@ -58,6 +58,7 @@
   height: 92%;
   width: 92%;
   background-image: url("../../../assets/Home/profilebg.png");
+  opacity: 0.8;
   background-size: cover;
   border-radius: 50%;
   background-repeat: no-repeat;
