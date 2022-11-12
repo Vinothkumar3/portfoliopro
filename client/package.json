@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "https://github.com/Vinothkumar3/react-resume-portfolio",
+  "homepage": "https://github.com/Vinothkumar3/resume-portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.9.1",
