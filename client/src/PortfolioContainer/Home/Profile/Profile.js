@@ -12,7 +12,7 @@ function Profile() {
           <div className="colz">
             <div className="colz-icon">
               <a
-                href="https://accounts.google.com/ServiceLogin/identifier?service=mail&passive=1209600&osid=1&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&ifkv=ARgdvAvfi2-fO8V3Ge4-u8V6wQARlT4dWpgdsWHDK9oJWBoOsW164Q1befCZKyfeHgOTmO_mCK3uIQ&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+                href="https://accounts.google.com/ServiceLogin/signinchooser?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F&ifkv=ARgdvAvvFqio3zWPF9-RbOG1sBxILmjqqwr4peEowEDn-VBtcQnnxmVn4_dxumbmtHqtkqw36IDu&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
                 target={"_blank"}
                 rel="noreferrer"
               >
@@ -56,7 +56,7 @@ function Profile() {
                 <Typical
                   loop={Infinity}
                   steps={[
-                    "Ethusiastic Dev 💃",
+                    "Ethusiastic Dev 💃🎵",
                     1000,
                     "Frontend-developer 💻",
                     1000,
