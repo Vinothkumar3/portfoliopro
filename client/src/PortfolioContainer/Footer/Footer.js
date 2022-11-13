@@ -39,7 +39,7 @@ function Footer() {
           right: "20px",
           display: "none",
           color: "grey",
-          height: "70px",
+          height: "64px",
           width: "50px",
           marginBottom:"20px",
           backgroundColor: "orangered",
