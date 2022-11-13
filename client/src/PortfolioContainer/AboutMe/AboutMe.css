@@ -1,8 +1,8 @@
 /*aboutme component bg img style  font style  */
 .aboutme-container {
-    display: flex;
+   /*  display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-between; */
     min-height: 740px;
     max-width: 100%;
     position: relative;

@@ -27,7 +27,8 @@ function Footer() {
   }
 
   return (
-    <div>
+    <>
+    <footer>
       <button
         type="button"
         onClick={backToTop}
@@ -40,6 +41,7 @@ function Footer() {
           color: "grey",
           height: "70px",
           width: "50px",
+          marginBottom:"20px",
           backgroundColor: "orangered",
           borderRadius: "15px",
           fontSize: "40px",
@@ -51,7 +53,9 @@ function Footer() {
       <div class="footer-copyright text-center py-3">
         © 2022 Copyright: website designed by <span id="name">Vinoth</span>
       </div>
-    </div>
+  
+    </footer>
+   </>
   );
 }
 
