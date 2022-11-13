@@ -11,9 +11,9 @@ function Resume() {
         <div className="resume-underline">
           {/* SCROLLSPY */}
           {/* row gx-0 is column b/w gap as zero */}
-          <div className="row gx-0">
+          <div className="row" >
             {/* col3 ref resume side icon and education,skill,project,interest  */}
-            <div className="col-md-3 ">
+            <div className="col-md-3" >
               {/* icons image click ref section */}
               <span className="span1">
                 <a href="#section1">
@@ -56,7 +56,7 @@ function Resume() {
                       Projects
                     </a>
                   </li>
-                  <li className="nav-item ni">
+                  <li className="nav-item ni" >
                     <a
                       className="list-group-item list-group-item nl"
                       href="#section4"
@@ -69,15 +69,17 @@ function Resume() {
             </div>
             {/* col-9 ref education skill,project,interest despriction or contents  sections*/}
             <div
-              className="col-md-9 "
-              data-bs-spy="scroll"
+              className="col-md-9 "data-bs-spy="scroll"
               data-bs-target="#myScrollspy"
-              /*  data offeset ref colo-9 scroll section colo-3 section active value */ data-bs-offset="10"
-              data-bs-smooth-scroll="true"
-              tabindex="0"
+             
+              /*  data offeset ref colo-9 scroll section colo
+               -3 section active value */ 
+            /* data-bs-offset="0" */
+             
             >
               {/* education section1 content */}
-              <div id="section1">
+              <div id="section1" data-bs-spy="scroll"
+              data-bs-target="#myScrollspy" data-bs-offset="1000" >
                 <h6 id="mcaid">
                   MCA Master of Computer Applications &emsp; &emsp; &emsp;
                   &emsp;<p id="mcaspan">2018-2020 | 7.6 cgpa</p>
@@ -106,11 +108,13 @@ function Resume() {
                     2013 | 79 % &nbsp; &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;
                   </p>
                 </h6>
-
                 <p id="hsp">Govt Higher Secondary School, Lalapet,TN.</p>
               </div>
-              {/* skill section2 progress bar allign colwise */}
-              <div id="section2">
+              {/* skill section2 progress bar align colwise */}
+              <div id="section2" 
+              /*  data offeset ref colo-9 scroll section colo
+               -3 section active value */ 
+           >
                 <div class="container">
                   {/* progress progressbar divide two cols */}
                   <div class="row">
@@ -223,7 +227,10 @@ function Resume() {
                 </div>
               </div>
               {/* projects description section3 */}
-              <div id="section3">
+              <div id="section3" 
+              /*  data offeset ref colo-9 scroll section colo
+               -3 section active value */ 
+           >
                 <h6 id="projid">
                   Personal Portfolio Website &emsp;&emsp; &emsp; &emsp; &emsp;
                   &emsp; &emsp;&emsp;&emsp; &nbsp;&emsp; &emsp; &emsp; &emsp;
@@ -269,7 +276,10 @@ function Resume() {
                 <br />
               </div>
               {/* interest section4 */}
-              <div id="section4">
+              <div id="section4"  
+              /*  data offeset ref colo-9 scroll section colo
+               -3 section active value */ 
+           >
                 <h6 id="inter1id">Creative & Problem Solving </h6>
                 <p id="interp">
                   I can ability to make or produce new things using my skill or
