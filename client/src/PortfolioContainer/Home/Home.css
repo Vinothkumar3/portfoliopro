@@ -6,8 +6,9 @@
   min-height: 670px;
   max-width: 100%;
   background-image: url("../../assets/Home/homebg.png");
-  background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .navbar-toggler-icon {

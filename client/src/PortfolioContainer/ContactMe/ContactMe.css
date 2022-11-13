@@ -153,16 +153,16 @@ label {
 /* toast msg success and error */
 .error_message {
   background-color: darkblue;
-  color: rgb(209, 60, 60);
+  color: #d13c3c;
   font-size: 20px;
-  width: 20vw;
-  padding: 30px 20px;
+  width: auto;
+  padding: auto;
 }
 
 .success_message {
   background-color: darkblue;
   color: rgb(44, 6, 6);
   font-size: 20px;
-  width: 20vw;
-  padding: 30px 20px;
+  width: auto;
+  padding: auto;
 }
