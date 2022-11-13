@@ -78,8 +78,7 @@ function Resume() {
              
             >
               {/* education section1 content */}
-              <div id="section1" data-bs-spy="scroll"
-              data-bs-target="#myScrollspy" data-bs-offset="1000" >
+              <div id="section1" >
                 <h6 id="mcaid">
                   MCA Master of Computer Applications &emsp; &emsp; &emsp;
                   &emsp;<p id="mcaspan">2018-2020 | 7.6 cgpa</p>
