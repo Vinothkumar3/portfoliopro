@@ -26,11 +26,11 @@
 }
 
 .resume-underline {
-  width: 90%;
+  max-width: 100%;
   /*  border: 1px solid; */
   /*   background-color: rgb(248, 247, 247); */
   align-content: center;
-  margin: 20px 100px 0px 100px;
+  margin: 20px 0px 0px 0px;
   padding: 15px;
 }
 
@@ -39,7 +39,7 @@
   background-color: white;
   box-sizing: border-box;
   background-color: white;
-  width: 250px;
+  min-width: 250px;
   border-right: 2px solid rgb(239, 241, 241);
 }
 
@@ -116,8 +116,7 @@ div .col-md-9 {
   background-color: white;
   height: 490px;
   margin: 0px 0px 0px 0px;
-  width: auto;
-
+  max-width: 1010px;
   overflow-y: auto;
 }
 
@@ -126,14 +125,14 @@ div .col-md-9::-webkit-scrollbar {
 }
 
 div .col-md-9::-webkit-scrollbar-track {
-  -webkit-box-shadow: inset 0 0 6px rgba(241, 240, 237, 0.856);
+  -webkit-box-shadow: inset 0 0 6px rgba(90, 69, 7, 0.856);
   border: 0.5px solid rgb(243, 243, 230);
   border-radius: 5px;
 }
 
 div .col-md-9::-webkit-scrollbar-thumb {
   border-radius: 5px;
-  -webkit-box-shadow: inset 0 0 6px rgb(177, 103, 34);
+  -webkit-box-shadow: inset 0 0 6px rgb(102, 6, 26);
 }
 
 #section1 {

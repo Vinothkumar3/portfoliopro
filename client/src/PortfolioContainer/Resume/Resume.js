@@ -74,7 +74,7 @@ function Resume() {
               data-bs-target="#myScrollspy"
               /*  data offeset ref colo-9 scroll section colo-3 section active value */ data-bs-offset="10"
               data-bs-smooth-scroll="true"
-              tabindex="20"
+              tabindex="0"
             >
               {/* education section1 content */}
               <div id="section1">

@@ -29,14 +29,12 @@
 
 .blog-underline {
   /*   border: 1px solid mediumorchid; */
-  /*   background-color: rgb(229, 235, 231); */
+  background-color: rgb(229, 235, 231); 
   min-height: 500px;
   display: block;
-  margin: 20px 0px 5px;
-  padding-left: 75px;
-  margin-left: auto;
-  margin-right: auto;
-  width: 90%;
+  margin: 20px 15px 5px;
+  padding: 5px;
+  max-width: 100%;
 }
 .carouselExampleControls {
   padding: 5%;

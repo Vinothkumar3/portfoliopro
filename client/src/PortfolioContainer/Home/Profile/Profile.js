@@ -77,11 +77,11 @@ function Profile() {
             <a href="#contactme" className="nav-links">
               <button className="btn">
                 {" "}
-                {""} Hire Me{""}
+                {""} Hire Me  &nbsp;<i className="fa fa-paper-plane"></i>{""}
               </button>
             </a>
             <a href="VinothResume.pdf" download="VinothResume.pdf">
-              <button className="btn highlighted-btn"> Get Resume </button>
+              <button className="btn highlighted-btn"> Get Resume  &nbsp;<i className="fa fa-download"></i></button>
             </a>
           </div>
         </div>

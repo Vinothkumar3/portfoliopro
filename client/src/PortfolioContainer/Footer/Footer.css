@@ -1,6 +1,7 @@
 /* footer component bg color and text color */
 .footer-copyright {
     background-color: rgb(122, 124, 126);
+    width: auto;
 
 }
 

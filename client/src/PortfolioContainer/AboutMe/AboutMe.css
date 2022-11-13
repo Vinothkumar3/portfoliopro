@@ -4,7 +4,7 @@
     flex-direction: column;
     justify-content: space-between;
     min-height: 740px;
-    width: 100%;
+    max-width: 100%;
     position: relative;
     background-image: url("../../assets/Home/white.png");
     background-size: cover;
@@ -26,6 +26,7 @@
     text-decoration: underline 1px;
     text-underline-position: under;
     text-decoration-color: aqua;
+    
 }
 
 .underline {
@@ -35,10 +36,9 @@
     background-size: cover;
     min-height: 600px;
     display: block;
-    margin: 16px 0px 5px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 85%;
+    margin: 16px 15px 5px;
+    max-width: 100%;
+  
 }
 
 .abou-cont {

@@ -60,11 +60,11 @@ function ContactMe() {
                   <div className="touchname" id="touchname">
                     <p className="touchp">
                       {" "}
-                      <i className="fa fa-envelope"></i>&nbsp;&nbsp;&nbsp;
+                      <i  id="ema"className="fa fa-envelope"></i>&nbsp;&nbsp;&nbsp;
                       Email:
                     </p>
-                    <p class="p1">
-                      &emsp;&emsp;&nbsp;gmvinothkumar1998@gmail.com &nbsp;
+                    <p class="p1ma">
+                      &emsp;&emsp;&nbsp;gmvinothkumar1998@gmail.com
                     </p>
                   </div>
                   <p className="touchp">
