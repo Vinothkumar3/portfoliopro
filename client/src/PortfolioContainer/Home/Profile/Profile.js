@@ -53,7 +53,7 @@ function Profile() {
               <h1>
                 {""}
                 {/* word loop effect 1 sec */}
-              {/*   <Typical
+                <Typical
                   loop={Infinity}
                   steps={[
                     "Ethusiastic-Dev 🏃",
@@ -65,7 +65,7 @@ function Profile() {
                     "UI-Dev 🎨",
                     1000,
                   ]}
-                /> */}
+                />
               </h1>
               <span className="profile-role-tagline ">
                 knack of building applications with front end and ui development
