@@ -13,7 +13,7 @@ function Resume() {
           {/* row gx-0 is column b/w gap as zero */}
           <div className="row" >
             {/* col3 ref resume side icon and education,skill,project,interest  */}
-            <div className="col-md-3" >
+            <div className="col-md-3" style={{position:"fixed"}} >
               {/* icons image click ref section */}
               <span className="span1">
                 <a href="#section1">

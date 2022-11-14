@@ -36,11 +36,11 @@
 
 /* col-3 style */
 .col-md-3 {
-  position: relative;
+  
   background-color: white;
   box-sizing: border-box;
   background-color: white;
-  min-width: 250px;
+  max-width: 250px;
   border-right: 2px solid rgb(239, 241, 241);
 }
 
