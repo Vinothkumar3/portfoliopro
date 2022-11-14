@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfoliopro/static/css/main.21a63129.css",
-    "main.js": "/portfoliopro/static/js/main.c07abc01.js",
+    "main.css": "/portfoliopro/static/css/main.a20407ba.css",
+    "main.js": "/portfoliopro/static/js/main.3a7f2eff.js",
     "static/js/787.c4e7f8f9.chunk.js": "/portfoliopro/static/js/787.c4e7f8f9.chunk.js",
     "static/media/VinothResume.pdf": "/portfoliopro/static/media/VinothResume.92090f6030e471d68d62.pdf",
     "static/media/profilebg.png": "/portfoliopro/static/media/profilebg.b5a293b3c5583829a3f9.png",
@@ -24,12 +24,12 @@
     "static/media/react.png": "/portfoliopro/static/media/react.0e41b1e566d99d1abeb6.png",
     "static/media/git.png": "/portfoliopro/static/media/git.36c06e2892470feb3dfe.png",
     "index.html": "/portfoliopro/index.html",
-    "main.21a63129.css.map": "/portfoliopro/static/css/main.21a63129.css.map",
-    "main.c07abc01.js.map": "/portfoliopro/static/js/main.c07abc01.js.map",
+    "main.a20407ba.css.map": "/portfoliopro/static/css/main.a20407ba.css.map",
+    "main.3a7f2eff.js.map": "/portfoliopro/static/js/main.3a7f2eff.js.map",
     "787.c4e7f8f9.chunk.js.map": "/portfoliopro/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21a63129.css",
-    "static/js/main.c07abc01.js"
+    "static/css/main.a20407ba.css",
+    "static/js/main.3a7f2eff.js"
   ]
 }
