@@ -97,9 +97,9 @@
 }
 
 .carousel-control-next, .carousel-control-prev {
- top: 80px;
-  bottom: 15px;
-  width: 15%;
-  height:40% ;
-  transition: opacity .10s ease;
+ margin-top: 80px;
+  margin-bottom: 15px;
+  max-width: 15%;
+ max-height:40% ;
+  transition: transform 2s ease, opacity .1s ease-in;
 }
