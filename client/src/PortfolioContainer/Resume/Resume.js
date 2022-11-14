@@ -75,15 +75,15 @@ function Resume() {
                  className="col-md-9"
                  data-bs-spy="scroll"
                  data-bs-target="#myScrollspy"
-                 data-bs-offset="0"
+                 data-bs-offset="10"
                  data-bs-smooth-scroll="true"
-                 tabindex="0">
+                 tabIndex="0">
               {/* education section1 content */}
 
               <div id="section1">
 
                 <h6 id="mcaid">
-                  MCA Master of Computer Applications &emsp; &emsp; &emsp;
+                  MCA Mastecr of Computer Applications &emsp; &emsp; &emsp;
                   &emsp;<p id="mcaspan">2018-2020 | 7.6 cgpa</p>
                 </h6>
                 <p id="mcap">TPGIT(Anna university)Vellore,TN.</p>
