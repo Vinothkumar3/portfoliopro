@@ -13,7 +13,7 @@ function ContactMe() {
 
     emailjs
       .sendForm(
-        "servicezalcudq",
+        "service_zalcudq",
         "template_j8li8h5",
         form.current,
         "iGs5tg5V0Yz7wLE7k"
