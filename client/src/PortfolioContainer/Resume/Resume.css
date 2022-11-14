@@ -36,11 +36,11 @@
 
 /* col-3 style */
 .col-md-3 {
-  
+  position: absolute;
   background-color: white;
   box-sizing: border-box;
   background-color: white;
-  max-width: 250px;
+  min-width: 250px;
   border-right: 2px solid rgb(239, 241, 241);
 }
 
@@ -113,10 +113,12 @@
 
 /* col-9 and  sections style  */
 div .col-md-9 {
+display: flex;
+flex-direction: column;
   position: relative;
   background-color: white;
   height: 490px;
-  margin: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 250px;
   max-width: 1010px;
   overflow-y: auto;
   overflow-x: hidden;
