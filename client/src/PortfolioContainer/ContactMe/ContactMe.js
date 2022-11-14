@@ -21,10 +21,10 @@ function ContactMe() {
       .then(
         (result) => {
           toast.success(
-            "Thank you for your mail !",
+            "Thank you for your mail ..! 🚩 👍",
             {
               position: toast.POSITION.TOP_RIGHT,
-              className: "success message .. 🚩 👍",
+              className: "success_message ",
             },
             result.text
           );
