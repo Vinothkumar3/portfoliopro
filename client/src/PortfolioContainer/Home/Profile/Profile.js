@@ -56,13 +56,13 @@ function Profile() {
                 <Typical
                   loop={Infinity}
                   steps={[
-                    "Ethusiastic Dev 💃🎵",
+                    "Ethusiastic-Dev 🏃🎵",
                     1000,
-                    "Frontend-developer 💻",
+                    "Frontend-Dev 💻",
                     1000,
-                    "Reactjs dev 👨‍💻",
+                    "Reactjs Dev 👨‍💻",
                     1000,
-                    "UI dev 🎨",
+                    "UI Dev 🎨",
                     1000,
                   ]}
                 />

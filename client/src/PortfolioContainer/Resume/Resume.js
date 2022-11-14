@@ -70,7 +70,7 @@ function Resume() {
             {/* col-9 ref education skill,project,interest despriction or contents  sections*/}
             <div
               className="col-md-9 "data-bs-spy="scroll"
-              data-bs-target="#myScrollspy"
+              data-bs-target="#myScrollspy" data-bs-offset="0"
              
               /*  data offeset ref colo-9 scroll section colo
                -3 section active value */ 
