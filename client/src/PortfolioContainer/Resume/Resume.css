@@ -127,14 +127,14 @@ div .col-md-9::-webkit-scrollbar {
 }
 
 div .col-md-9::-webkit-scrollbar-track {
-  -webkit-box-shadow: inset 0 0 6px rgba(90, 69, 7, 0.856);
+  box-shadow: inset 0 0 6px rgba(90, 69, 7, 0.856);
   border: 0.5px solid rgb(243, 243, 230);
   border-radius: 5px;
 }
 
 div .col-md-9::-webkit-scrollbar-thumb {
   border-radius: 5px;
-  -webkit-box-shadow: inset 0 0 6px rgb(102, 6, 26);
+  box-shadow: inset 0 0 6px rgb(102, 6, 26);
 }
 
 #section1 {
