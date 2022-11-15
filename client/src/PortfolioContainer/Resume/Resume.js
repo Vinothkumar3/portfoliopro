@@ -13,28 +13,30 @@ function Resume() {
           {/* row gx-0 is column b/w gap as zero */}
           <div className="row" >
             {/* col3 ref resume side icon and education,skill,project,interest  */}
-            <div className="col-md-3">
+            <div className="col-md-3" >
               {/* icons image click ref section */}
               <span className="span1">
                 <a href="#section1">
                   <i className="fa fa-graduation-cap fa-lg"></i>
                 </a>
                 <a href="#section2">
-                  <i className="fa fa-cogs fa-lg"></i>
+                  <i className="fa fa-cogs  fa-lg"></i>
                 </a>
                 <a href="#section3">
-                  <i className="fa fa-tasks fa-lg"></i>
+                  <i className="fa fa-tasks  fa-lg"></i>
                 </a>
                 <a href="#section4">
-                  <i className="fa fa-paint-brush fa-lg"></i>
+                  <i className="fa fa-paint-brush  fa-lg"></i>
                 </a>
               </span>
+
+
               {/* col3 list items click col-9 scroll to show  */}
               <span className="span2">
                 <ul className="list-group nuo" id="myScrollspy">
                   <li className="nav-item ni">
                     <a
-                      className="list-group-item  nl"
+                      className="list-group-item list-group-item  nl"
                       href="#section1"
                     >
                       Education
@@ -42,7 +44,7 @@ function Resume() {
                   </li>
                   <li className="nav-item ni">
                     <a
-                      className="list-group-item nl"
+                      className="list-group-item list-group-item nl"
                       href="#section2"
                     >
                       Skills
@@ -50,7 +52,7 @@ function Resume() {
                   </li>
                   <li className="nav-item ni">
                     <a
-                      className="list-group-item  nl"
+                      className="list-group-item list-group-item nl "
                       href="#section3"
                     >
                       Projects
@@ -58,7 +60,7 @@ function Resume() {
                   </li>
                   <li className="nav-item ni" >
                     <a
-                      className="list-group-item nl"
+                      className="list-group-item list-group-item nl"
                       href="#section4"
                     >
                       Interests
@@ -66,34 +68,35 @@ function Resume() {
                   </li>
                 </ul>
               </span>
+
             </div>
-            {/* {/* col-9 ref education skill,project,interest despriction or contents  sections
-            --> data offeset ref colo-9 scroll section colo
-               -3 section active value  
-             -->data-bs-offset="0"  */}
+            {/* col-9 ref education skill,project,interest despriction or contents  sections*
+              /*  data offeset ref colo-9 scroll section colo
+               -3 section active value */ 
+            /* data-bs-offset="0" */}
+            
             <div
-                 className="col-md-9"
-                 data-bs-spy="scroll"
-                 data-bs-target="#myScrollspy"
-                 data-bs-offset="10"
-                 data-bs-smooth-scroll="true"
-                 tabIndex="0">
+              className="col-md-9 "data-bs-spy="scroll"
+              data-bs-target="#myScrollspy" data-bs-offset="70"
+              tabIndex="0">
+             
+            
+             
+            
               {/* education section1 content */}
-
-              <div id="section1">
-
+              <div id="section1" >
                 <h6 id="mcaid">
-                  MCA Mastecr of Computer Applications &emsp; &emsp; &emsp;
+                  MCA Master of Computer Applications &emsp; &emsp; &emsp;
                   &emsp;<p id="mcaspan">2018-2020 | 7.6 cgpa</p>
                 </h6>
+
                 <p id="mcap">TPGIT(Anna university)Vellore,TN.</p>
-                
                 <h6 id="bcaid">
                   BCA Master of Computer Applications &emsp; &emsp; &emsp;
                   &emsp;<p id="bcaspan">2015 - 2020 | 6.5 % &emsp;</p>
                 </h6>
+
                 <p id="bcap"> APCAS(Thiruvalluvar university)Vellore,TN.</p>
-                
                 <h6 id="hscid">
                   HSC Higher Secondary &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
                   &emsp;&emsp; &nbsp; &emsp;&emsp;{" "}
@@ -101,8 +104,8 @@ function Resume() {
                     2015 | 57 % &nbsp; &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;
                   </p>
                 </h6>
+
                 <p id="hscp">Govt Higher Secondary School, Lalapet,TN.</p>
-                
                 <h6 id="hsid">
                   HSC Higher Secondary &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
                   &emsp;&emsp; &nbsp; &emsp;&emsp;
@@ -112,17 +115,18 @@ function Resume() {
                 </h6>
                 <p id="hsp">Govt Higher Secondary School, Lalapet,TN.</p>
               </div>
+
               {/* skill section2 progress bar align colwise 
-               --> data offeset ref colo-9 scroll section colo
-               -3 section active value  */}
-               <div id="section2"> 
-      
+                data offeset ref colo-9 scroll section colo
+               -3 section active value */ }
+              <div id="section2"> 
+              
+        
                 <div class="container">
                   {/* progress progressbar divide two cols */}
                   <div class="row">
                     {/* progress col1 */}
                     <div class="col-sm">
-
                       <h4>HTML5</h4>
                       <div class="progress">
                         <div
@@ -134,7 +138,6 @@ function Resume() {
                           aria-valuemax="100"
                         ></div>
                       </div>
-
                       <h4>JavaScript</h4>
                       <div class="progress">
                         <div
@@ -146,7 +149,6 @@ function Resume() {
                           aria-valuemax="100"
                         ></div>
                       </div>
-
                       <h4>React</h4>
                       <div class="progress">
                         <div
@@ -158,7 +160,6 @@ function Resume() {
                           aria-valuemax="100"
                         ></div>
                       </div>
-
                       <h4>Git&github</h4>
                       <div class="progress">
                         <div
@@ -170,7 +171,6 @@ function Resume() {
                           aria-valuemax="100"
                         ></div>
                       </div>
-
                       <h4>npm</h4>
                       <div class="progress">
                         <div
@@ -181,15 +181,12 @@ function Resume() {
                           aria-valuemin="0"
                           aria-valuemax="100"
                         ></div>
-
                       </div>
                     </div>
-
                     {/* progres col2 */}
                     <div class="col-sm">
-                     
                       <h4>CSS3</h4>
-                      <div class="progress">
+                      <div class="progress ">
                         <div
                           class="progress-bar progress-bar-striped  progress-bar-animated"
                           style={{ width: "90%" }}
@@ -199,7 +196,6 @@ function Resume() {
                           aria-valuemax="100"
                         ></div>
                       </div>
-
                       <h4>ECMAScript latest</h4>
                       <div class="progress">
                         <div
@@ -211,7 +207,6 @@ function Resume() {
                           aria-valuemax="100"
                         ></div>
                       </div>
-
                       <h4>BootStrap 5.2</h4>
                       <div class="progress">
                         <div
@@ -223,7 +218,6 @@ function Resume() {
                           aria-valuemax="100"
                         ></div>
                       </div>
-
                       <h4>Node Js</h4>
                       <div class="progress">
                         <div
@@ -235,16 +229,14 @@ function Resume() {
                           aria-valuemax="100"
                         ></div>
                       </div>
-
                     </div>
                   </div>
                 </div>
               </div>
-              {/* projects description section3 
-              -->data offeset ref colo-9 scroll section colo
+              {/* projects description section3 *//*  data offeset ref colo-9 scroll section colo
                -3 section active value */}
-              <div id="section3"> 
-              
+              <div id="section3" >
+               
            
                 <h6 id="projid">
                   Personal Portfolio Website &emsp;&emsp; &emsp; &emsp; &emsp;
@@ -290,11 +282,10 @@ function Resume() {
                 </p>
                 <br />
               </div>
-              {/* interest section4 
-              --> data offeset ref colo-9 scroll section colo
-               -3 section active value */}
-              <div id="section4"> 
-            
+              {/* interest section4 *//*  data offeset ref colo-9 scroll section colo
+               -3 section active value */ }
+              <div id="section4">  
+              
            
                 <h6 id="inter1id">Creative & Problem Solving </h6>
                 <p id="interp">
@@ -323,9 +314,7 @@ function Resume() {
                   listening all genre song to help of relax and refresh my self.{" "}
                 </p>
               </div>
-
             </div>
-
           </div>
         </div>
       </div>
