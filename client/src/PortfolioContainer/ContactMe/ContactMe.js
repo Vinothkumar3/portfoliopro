@@ -87,7 +87,7 @@ function ContactMe() {
                     <div className="colz-icon">
                       &emsp;&emsp;&emsp;
                       <a
-                        href="https://mail.google.com/mail/?tab=rm"
+                        href="http://www.gmail.com/"
                         target={"_blank"}
                         rel="noreferrer"
                       >
