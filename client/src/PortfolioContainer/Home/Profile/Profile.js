@@ -12,7 +12,7 @@ function Profile() {
           <div className="colz">
             <div className="colz-icon">
               <a
-                href="https://accounts.google.com/b/0/AddMailService"
+                href="https://mail.google.com/mail/?tab=rm"
                 target={"_blank"}
                 rel="noreferrer"
               >
