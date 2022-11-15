@@ -77,7 +77,7 @@ function Resume() {
             
             <div
               className="col-md-9 "data-bs-spy="scroll"
-              data-bs-target="#myScrollspy" data-bs-offset="70"
+              data-bs-target="#myScrollspy" data-bs-offset="10"
               tabIndex="0">
              
             
