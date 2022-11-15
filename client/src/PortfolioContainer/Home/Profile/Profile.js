@@ -12,7 +12,7 @@ function Profile() {
           <div className="colz">
             <div className="colz-icon">
               <a
-                href="https://accounts.google.com/ServiceLogin/signinchooser?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F&ifkv=ARgdvAvvFqio3zWPF9-RbOG1sBxILmjqqwr4peEowEDn-VBtcQnnxmVn4_dxumbmtHqtkqw36IDu&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+                href="https://accounts.google.com/b/0/AddMailService"
                 target={"_blank"}
                 rel="noreferrer"
               >
