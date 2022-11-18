@@ -92,7 +92,7 @@ function Resume() {
 
                 <p id="mcap">TPGIT(Anna university)Vellore,TN.</p>
                 <h6 id="bcaid">
-                  BCA Master of Computer Applications &emsp; &emsp; &emsp;
+                  BCA Bachelor of Computer Applications &emsp; &emsp; &emsp;
                   &emsp;<p id="bcaspan">2015 - 2020 | 6.2 GPA &emsp;</p>
                 </h6>
 
