@@ -118,6 +118,7 @@ div .col-md-9 {
   margin: 0px 0px 0px 0px;
   max-width: 1010px;
   overflow-y: auto;
+  overflow-x: hidden;
 }
 
 div .col-md-9::-webkit-scrollbar {

@@ -91,6 +91,7 @@
   font-family: poppins semibold;
   text-align: left;
   margin: 22px 0px 10px 50px;
+  max-width:auto;
 }
 
 /* c0l-5 contact me */
