@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/portfoliopro/static/css/main.a6aad6c2.css",
-    "main.js": "/portfoliopro/static/js/main.3f61fae2.js",
+    "main.css": "/portfoliopro/static/css/main.bb021378.css",
+    "main.js": "/portfoliopro/static/js/main.4c14a23e.js",
     "static/js/787.c4e7f8f9.chunk.js": "/portfoliopro/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/VinothResume.pdf": "/portfoliopro/static/media/VinothResume.92090f6030e471d68d62.pdf",
     "static/media/profilebg.png": "/portfoliopro/static/media/profilebg.b5a293b3c5583829a3f9.png",
+    "static/media/Vinoth-Resume.pdf": "/portfoliopro/static/media/Vinoth-Resume.6154989403976fc6fc02.pdf",
     "static/media/contsend.png": "/portfoliopro/static/media/contsend.b2710c50142c634121db.png",
     "static/media/Poppins-Thin.ttf": "/portfoliopro/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
     "static/media/Poppins-Light.ttf": "/portfoliopro/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
@@ -24,12 +24,12 @@
     "static/media/react.png": "/portfoliopro/static/media/react.0e41b1e566d99d1abeb6.png",
     "static/media/git.png": "/portfoliopro/static/media/git.36c06e2892470feb3dfe.png",
     "index.html": "/portfoliopro/index.html",
-    "main.a6aad6c2.css.map": "/portfoliopro/static/css/main.a6aad6c2.css.map",
-    "main.3f61fae2.js.map": "/portfoliopro/static/js/main.3f61fae2.js.map",
+    "main.bb021378.css.map": "/portfoliopro/static/css/main.bb021378.css.map",
+    "main.4c14a23e.js.map": "/portfoliopro/static/js/main.4c14a23e.js.map",
     "787.c4e7f8f9.chunk.js.map": "/portfoliopro/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6aad6c2.css",
-    "static/js/main.3f61fae2.js"
+    "static/css/main.bb021378.css",
+    "static/js/main.4c14a23e.js"
   ]
 }
