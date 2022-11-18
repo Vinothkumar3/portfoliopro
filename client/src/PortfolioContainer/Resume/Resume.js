@@ -87,13 +87,13 @@ function Resume() {
               <div id="section1" >
                 <h6 id="mcaid">
                   MCA Master of Computer Applications &emsp; &emsp; &emsp;
-                  &emsp;<p id="mcaspan">2018-2020 | 7.6 cgpa</p>
+                  &emsp;<p id="mcaspan">2018-2020 | 7.6 CGPA</p>
                 </h6>
 
                 <p id="mcap">TPGIT(Anna university)Vellore,TN.</p>
                 <h6 id="bcaid">
                   BCA Master of Computer Applications &emsp; &emsp; &emsp;
-                  &emsp;<p id="bcaspan">2015 - 2020 | 6.5 % &emsp;</p>
+                  &emsp;<p id="bcaspan">2015 - 2020 | 6.2 GPA &emsp;</p>
                 </h6>
 
                 <p id="bcap"> APCAS(Thiruvalluvar university)Vellore,TN.</p>
@@ -101,16 +101,16 @@ function Resume() {
                   HSC Higher Secondary &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
                   &emsp;&emsp; &nbsp; &emsp;&emsp;{" "}
                   <p id="hscspan">
-                    2015 | 57 % &nbsp; &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;
+                    2013-2015 | 56.58 % &nbsp; &emsp;&nbsp;&nbsp;
                   </p>
                 </h6>
 
                 <p id="hscp">Govt Higher Secondary School, Lalapet,TN.</p>
                 <h6 id="hsid">
-                  HSC Higher Secondary &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+                  SSLC Higher Secondary &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
                   &emsp;&emsp; &nbsp; &emsp;&emsp;
                   <p id="hsspan">
-                    2013 | 79 % &nbsp; &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;
+                    2013 | 79 % &nbsp; &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;
                   </p>
                 </h6>
                 <p id="hsp">Govt Higher Secondary School, Lalapet,TN.</p>
@@ -239,9 +239,8 @@ function Resume() {
                
            
                 <h6 id="projid">
-                  Personal Portfolio Website &emsp;&emsp; &emsp; &emsp; &emsp;
-                  &emsp; &emsp;&emsp;&emsp; &nbsp;&emsp; &emsp; &emsp; &emsp;
-                  &emsp; &emsp;&emsp;&nbsp;<p id="projspan">2022</p>
+                  Personal Portfolio Website&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<p id="projspan">2022</p>
                 </h6>
 
                 <p id="projp1">Technologies used: Reactjs,BootStrap</p>
@@ -252,9 +251,9 @@ function Resume() {
                 </p>
 
                 <h6 id="projid">
-                  Point of Sale System &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
-                  &emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
-                  &emsp;&emsp;&emsp;&emsp; &emsp; <p id="projspan1">2020</p>
+                  Point of Sale System &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<p id="projspan1">2020</p>
+
                 </h6>
 
                 <p id="projp1">Technologies used: Html,php,Js</p>
@@ -266,9 +265,8 @@ function Resume() {
                 </p>
 
                 <h6 id="projid">
-                  Helping hands &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
-                  &emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp;
-                  &emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;&nbsp;
+                  Helping hands &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
                   <p id="projspan2">2019</p>
                 </h6>
 
