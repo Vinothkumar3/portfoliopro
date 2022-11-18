@@ -1,7 +1,7 @@
 import React from "react";
 import Typical from "react-typical";
 import "./Profile.css";
-import resume from"../../../assets/Home/VinothResume.pdf"
+import resume from"../../../assets/Home/Vinoth-Resume.pdf"
 function Profile() {
   return (
     /* profile picture and home component texts and icons  buttons */
@@ -81,7 +81,7 @@ function Profile() {
                 {""} Hire Me  &nbsp;<i className="fa fa-paper-plane"></i>{""}
               </button>
             </a>
-            <a href={resume} download="VinothResume.pdf">
+            <a href={resume} download="Vinoth-Resume.pdf">
               <button className="btn highlighted-btn"> Get Resume  &nbsp;<i className="fa fa-download"></i></button>
             </a>
           </div>
