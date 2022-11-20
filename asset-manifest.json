@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/portfoliopro/static/css/main.20c505e7.css",
-    "main.js": "/portfoliopro/static/js/main.77b802e7.js",
+    "main.js": "/portfoliopro/static/js/main.b46a6d02.js",
     "static/js/787.c4e7f8f9.chunk.js": "/portfoliopro/static/js/787.c4e7f8f9.chunk.js",
     "static/media/profilebg.png": "/portfoliopro/static/media/profilebg.b5a293b3c5583829a3f9.png",
-    "static/media/Vinoth-Resume.pdf": "/portfoliopro/static/media/Vinoth-Resume.5e7be8fcb396a2c06de4.pdf",
+    "static/media/Vinoth-Resume.pdf": "/portfoliopro/static/media/Vinoth-Resume.c14eb35e9e022c58f291.pdf",
     "static/media/contsend.png": "/portfoliopro/static/media/contsend.b2710c50142c634121db.png",
     "static/media/Poppins-Thin.ttf": "/portfoliopro/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
     "static/media/Poppins-Light.ttf": "/portfoliopro/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
@@ -25,11 +25,11 @@
     "static/media/git.png": "/portfoliopro/static/media/git.36c06e2892470feb3dfe.png",
     "index.html": "/portfoliopro/index.html",
     "main.20c505e7.css.map": "/portfoliopro/static/css/main.20c505e7.css.map",
-    "main.77b802e7.js.map": "/portfoliopro/static/js/main.77b802e7.js.map",
+    "main.b46a6d02.js.map": "/portfoliopro/static/js/main.b46a6d02.js.map",
     "787.c4e7f8f9.chunk.js.map": "/portfoliopro/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.20c505e7.css",
-    "static/js/main.77b802e7.js"
+    "static/js/main.b46a6d02.js"
   ]
 }
