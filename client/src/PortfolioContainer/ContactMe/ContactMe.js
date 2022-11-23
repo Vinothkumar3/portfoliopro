@@ -3,7 +3,7 @@ import emailjs from "@emailjs/browser";
 import "./ContactMe.css";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-/* contame component divide get in touch and contact me  */
+/* contact me component divide get in touch and contact me  */
 function ContactMe() {
   /* send mail emailjs and toast msg */
   const form = useRef();
@@ -21,7 +21,7 @@ function ContactMe() {
       .then(
         (result) => {
           toast.success(
-            "Thank you for your mail ..! 🚩 👍",
+            "Thank you for your message ..! 🚩 👍",
             {
               position: toast.POSITION.TOP_RIGHT,
               className: "success_message ",
